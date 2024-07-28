@@ -1,4 +1,14 @@
-## Hi there 👋
+## Sup, everyone! 👋
+Years of experience: 5+.
+Frontend: React, Vue.
+Backend: Elixir, Phoenix
+Database: Postgres
+
+Interested in Web Development using Phoenix + LiveView stack. Also have strong expertise in JavaScript.
+
+### Contact me
+Email: burningmyselffromwithin@gmail.com
+Telegram: @dzmitry_sidorov
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitry-sidorov&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <!--
