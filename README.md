@@ -24,18 +24,18 @@
 ### Contributor in
 
 <div>
-  <span style="width: fit-content; margin-right: 10px;">
+  <div style="width: fit-content; margin-right: 10px;">
     <img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" style="width: 50px; height: 50px;" />
     <a href="https://github.com/danielbergholz/techschool.dev">Techschool.dev</a>
-  </span>
-  <span style="width: fit-content; margin-right: 10px;">
+  </div>
+  <div style="width: fit-content; margin-right: 10px;">
     <img src="https://avatars.githubusercontent.com/u/166174744?s=200&v=4" style="width: 50px; height: 50px;" />
     <a href="https://github.com/adopt-liveview/adopt-liveview">AdoptLiveview</a>
-  </span>
-  <span style="width: fit-content;">
+  </div>
+  <div style="width: fit-content;">
     <img src="https://avatars.githubusercontent.com/u/17727647?s=200&v=4" style="width: 50px; height: 50px;" />
     <a href="https://github.com/elixirschool/elixirschool">ElixirSchool</a>
-  </span>
+  </div>
 </div>
 
 <!--
