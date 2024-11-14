@@ -24,18 +24,18 @@
 ### Contributor in
 
 <div style="display: flex; gap: 50px;">
-  <a href="https://github.com/danielbergholz/techschool.dev" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+  <span style="display: flex; align-items: center; gap: 5px; width: fit-content;">
     <img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" style="width: 50px; height: 50px;" />
-    Techschool.dev
-  </a>
-  <a href="https://github.com/adopt-liveview/adopt-liveview" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+    <a href="https://github.com/danielbergholz/techschool.dev">Techschool.dev</a>
+  </span>
+  <span style="display: flex; align-items: center; gap: 5px; width: fit-content;">
     <img src="https://avatars.githubusercontent.com/u/166174744?s=200&v=4" style="width: 50px; height: 50px;" />
-    AdoptLiveview
-  </a>
-  <a href="https://github.com/elixirschool/elixirschool" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+    <a href="https://github.com/adopt-liveview/adopt-liveview">AdoptLiveview</a>
+  </span>
+  <span style="display: flex; align-items: center; gap: 5px; width: fit-content;">
     <img src="https://avatars.githubusercontent.com/u/17727647?s=200&v=4" style="width: 50px; height: 50px;" />
-    ElixirSchool
-  </a>
+    <a href="https://github.com/elixirschool/elixirschool">ElixirSchool</a>
+  </span>
 </div>
 
 <!--
