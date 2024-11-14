@@ -13,9 +13,12 @@
 
 ### Contact me
 
-- Email: burningmyselffromwithin@gmail.com
-- Telegram: @dzmitry_sidorov
-- LinkedIn: https://www.linkedin.com/in/dzmitry-sidarau/
+[![Telegram](https://img.shields.io/badge/dzmitry_sidorov-blue?logo=telegram&logoColor=f5f5f5)](https://t.me/dzmitry_sidorov)
+[![LinkedIn](https://img.shields.io/badge/--twitter?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dzmitry-sidarau/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=f5f5f5)](mailto:burningmyselffromwithin@gmail.com)
+
+#EA4335
+Email: burningmyselffromwithin@gmail.com
 
 ### Github profile summary
 
@@ -26,8 +29,8 @@
 [![Elixir](https://img.shields.io/badge/Elixir-4e2a8e?style=for-the-badge&logo=Elixir)](https://elixir-lang.org/)
 [![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=f5f5f5)](https://www.phoenixframework.org/)
 [![Postgres](https://img.shields.io/badge/Postgres-F5455C?style=for-the-badge&logo=postgresql&logoColor=f5f5f5)](https://www.postgresql.org/)
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=f5f5f5)](https://vuejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=f5f5f5)](https://www.typescriptlang.org/)
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=f5f5f5)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=f5f5f5)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=f5f5f5)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5)](https://nextjs.org/)
