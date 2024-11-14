@@ -17,9 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/--twitter?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/dzmitry-sidarau/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=f5f5f5)](mailto:burningmyselffromwithin@gmail.com)
 
-#EA4335
-Email: burningmyselffromwithin@gmail.com
-
 ### Github profile summary
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitry-sidorov&theme=dark&show_icons=true&hide_border=true&count_private=true)
