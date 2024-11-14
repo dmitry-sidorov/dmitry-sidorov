@@ -23,17 +23,17 @@
 
 ### Contributor in
 
-<div class="contribution">
-  <a href="https://github.com/danielbergholz/techschool.dev" class="contribution-item">
-    <img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" class="contribution-image"/>
+<div style="display: flex; gap: 50px;">
+  <a href="https://github.com/danielbergholz/techschool.dev" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+    <img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" style="width: 50px; height: 50px;" />
     Techschool.dev
   </a>
-  <a href="https://github.com/adopt-liveview/adopt-liveview" class="contribution-item">
-    <img src="https://avatars.githubusercontent.com/u/166174744?s=200&v=4" class="contribution-image"/>
+  <a href="https://github.com/adopt-liveview/adopt-liveview" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+    <img src="https://avatars.githubusercontent.com/u/166174744?s=200&v=4" style="width: 50px; height: 50px;" />
     AdoptLiveview
   </a>
-  <a href="https://github.com/elixirschool/elixirschool" class="contribution-item">
-    <img src="https://avatars.githubusercontent.com/u/17727647?s=200&v=4" class="contribution-image"/>
+  <a href="https://github.com/elixirschool/elixirschool" style="display: flex; align-items: center; gap: 5px; width: fit-content;">
+    <img src="https://avatars.githubusercontent.com/u/17727647?s=200&v=4" style="width: 50px; height: 50px;" />
     ElixirSchool
   </a>
 </div>
@@ -52,22 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-  .contribution {
-    display: flex;
-    gap: 50px;
-  }
-
-  .contribution-image {
-    width: 50px;
-    height: 50px;
-  }
-
-  .contribution-item {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    width: fit-content;
-  }
-</style>
