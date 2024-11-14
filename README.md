@@ -1,24 +1,43 @@
 ## What's up, everyone! 👋 Dzmitry is here.
+
 - Years of experience: 5+.
 - Frontend: React, Vue.
 - Backend: Elixir, Phoenix
 - Database: Postgres
 
 ### Interested in
+
 - Web Development using Phoenix + LiveView stack.
 - Also have strong expertise in Frontend/JavaScript.
 - Inline skating 🛼
 
 ### Contact me
+
 - Email: burningmyselffromwithin@gmail.com
 - Telegram: @dzmitry_sidorov
 - LinkedIn: https://www.linkedin.com/in/dzmitry-sidarau/
 
 ### Github profile summary
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitry-sidorov&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ### Contributor in
-<img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" width="12"/> [Techschool.dev](https://github.com/danielbergholz/techschool.dev)
+
+<div class="contribution">
+  <a href="https://github.com/danielbergholz/techschool.dev" class="contribution-item">
+    <img src="https://ucarecdn.com/0c601611-edbf-4c11-a03c-b24460223e5e/" class="contribution-image"/>
+    Techschool.dev
+  </a>
+  <a href="https://github.com/adopt-liveview/adopt-liveview" class="contribution-item">
+    <img src="https://avatars.githubusercontent.com/u/166174744?s=200&v=4" class="contribution-image"/>
+    AdoptLiveview
+  </a>
+  <a href="https://github.com/elixirschool/elixirschool" class="contribution-item">
+    <img src="https://avatars.githubusercontent.com/u/17727647?s=200&v=4" class="contribution-image"/>
+    ElixirSchool
+  </a>
+</div>
+
 <!--
 **dmitry-sidorov/dmitry-sidorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +52,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  .contribution {
+    display: flex;
+    gap: 50px;
+  }
+
+  .contribution-image {
+    width: 50px;
+    height: 50px;
+  }
+
+  .contribution-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: fit-content;
+  }
+</style>
