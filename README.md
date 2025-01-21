@@ -1,9 +1,8 @@
 ## What's up, everyone! 👋 Dzmitry is here.
 
 - Years of experience: 5+.
-- Frontend: React, Vue.
-- Backend: Elixir, Phoenix
-- Database: Postgres
+- Frontend: React
+- Backend: Elixir
 
 ### Interested in
 
