@@ -1,6 +1,6 @@
 ## What's up, everyone! 👋 Dzmitry is here.
 
-- Years of experience: 5+.
+- Years of experience: 6+.
 - Frontend: React
 - Backend: Elixir
 
